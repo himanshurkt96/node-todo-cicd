@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: himanshurkt96/node-todo-cicd
+    image: himanshurkt96/node-cicd-pipeline:latest
     ports:
       - "8000:8000"
